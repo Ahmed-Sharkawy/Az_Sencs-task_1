@@ -1,0 +1,22 @@
+
+
+.done_image {
+    width: 100%;
+    height: 91vh;
+}
+
+.done_image img {
+    width: 100%;
+    height: 100%;
+}
+
+    /* الجرئ الخاص با الفورم */
+
+.login {
+    width: 400px;
+    margin: 150px auto;
+}
+
+.login input {
+    margin-bottom: 10px;
+}
